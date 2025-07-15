@@ -17,6 +17,7 @@ Open a terminal and run the following commands to install necessary packages:
 sudo apt install network-manager 
 sudo apt install dnsmasq 
 sudo apt install haveged
+sudo apt install iptables
 ```
 
 ## Step 2: Clone the create_ap Repository
